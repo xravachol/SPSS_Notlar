@@ -1,7 +1,5 @@
 # IBM SPSS Statistics Kurulum ve Lisanslama Kılavuzu
 
-# IBM SPSS Statistics Kurulum ve Lisanslama Kılavuzu
-
 ## Giriş
 
 Bu belge, IBM SPSS Statistics'in kurulum ve lisanslama süreci hakkında genel bir bakış sunmaktadır. Farklı lisans türlerini anlamak, temel kurulum ve lisanslama sürecine aşina olmak ve hangi kurulum belgelerini okumanız gerektiğini öğrenmek için bu belgeyi okuyun.
