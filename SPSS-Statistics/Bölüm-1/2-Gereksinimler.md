@@ -1,6 +1,6 @@
 # IBM SPSS Statistics v30 için Gerekli Beceriler
 
-## 1.1 Gerekli Beceriler
+## Gerekli Beceriler
 
 SPSS ile veri analizi yaparken bu README'nin etkili olabilmesi için, belirli bir düzeyde istatistik bilgisine sahip olmanız ve 
 SPSS'i çalıştırmak için gerekli kaynaklara sahip bir bilgisayara erişiminizin olması gerekmektedir. 
