@@ -1,0 +1,36 @@
+# IBM SPSS Statistics v30 Kapsam ve Özellikleri
+
+## 1.2 Kapsam
+
+IBM SPSS Statistics, her açıdan karmaşık ve güçlü bir istatistik programıdır. 
+Büyüklüğüne ve karmaşıklığına rağmen, SPSS ve IBM sadece güçlü değil, aynı zamanda kullanıcı dostu bir program yaratmıştır (siz kullanıcısınız; program dost olmaya çalışır). 
+Yıllar içindeki gelişmelerle SPSS, veri analizi için Henry Ford'un otomobil için yaptığını yapmıştır: kitlelere ulaşılabilir hale getirmiştir. 
+SPSS, sosyal bilimlerde, iş dünyasında ve diğer bilimsel disiplinlerde kullanılan her türlü istatistiksel analizi gerçekleştirebilir.
+
+Bu README, IBM SPSS Statistics Versiyon 30 için yazılmıştır. 
+Birkaç istisna dışında, burada gördükleriniz SPSS Versiyon 16 ve üstü ile benzer olacaktır. 
+SPSS'in sadece birkaç bölümü her sürümde değiştiğinden, bu README'nin çoğu önceki sürümlere de uygulanabilir.
+
+README'miz, SPSS Standard'da (veya Özel Tablolar ve Gelişmiş İstatistikler eklentili Abonelik Tabanı) bulunan en yaygın kullanılan istatistiksel prosedürleri kapsar.
+Sadece SPSS Base kullanıyorsanız, daha ileri düzey bölümlerde sunulan bazı çok değişkenli analizleri yapamayacaksınız.
+
+### Sosyoloji Alanındaki Çalışanlar İçin Özel Notlar
+
+SPSS v30, sosyoloji araştırmacıları için özellikle değerli araçlar sunar:
+
+- Gelişmiş anket analizi özellikleri
+- Sosyal ağ analizi modülleri
+- Nitel veri analizi için geliştirilmiş araçlar
+- Longitudinal veri analizi için özel prosedürler
+
+Bu özellikler, sosyolojik araştırmaların karmaşık doğasına uygun olarak tasarlanmıştır ve 
+alan çalışmalarından elde edilen verilerin derinlemesine analizini kolaylaştırır.
+
+### Yardım Dosyaları ve Kılavuzlar
+
+SPSS, programı desteklemek için kapsamlı yardım dosyaları oluşturmuştur. 
+İstatistik ve veri analizinde akıcı olan bir kişi için kılavuzlar iyi yazılmış ve akıllıca düzenlenmiştir. 
+Ancak daha az akıcı olan kişiler için organizasyon genellikle anlaşılmaz ve kapsamlılık (yaklaşık 2.000 sayfalık ince baskı metin eşdeğeri) bunaltıcı olabilir.
+
+Bildiğimiz kadarıyla, basılı kılavuzlar artık mevcut değildir, ancak bu bilgilerin çoğuna artık SPSS'ten PDF indirmeleri olarak erişilebilir. 
+Aynı bilgiler ayrıntılı çevrimiçi Yardım menüsünde de mevcuttur.
