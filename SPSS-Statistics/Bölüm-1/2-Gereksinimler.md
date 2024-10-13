@@ -23,9 +23,10 @@ Bu bölümler, ilgili istatistiksel tekniklerde önemli bir altyapı gerektirir.
 Aşağıdakilere sahip olmanız gerekmektedir:
 
 - Aşağıdaki özelliklere sahip bir kişisel bilgisayara erişim:
-    - Microsoft® Windows® 10 veya daha yüksek; veya Mac OS® 10.13 (High Sierra) veya daha yüksek sürüm yüklü
-    - IBM SPSS Statistics 30 yüklü
+- Microsoft® Windows® 10 veya daha yüksek; veya Mac OS® 10.13 (High Sierra) veya daha yüksek sürüm yüklü
+- IBM SPSS Statistics 30 yüklü
 - Bilgisayarı nasıl açacağınızı bilmek
+- Klavyedeki tuşlar ve farenin nasıl kullanılacağı hakkında çalışma bilgisine sahip olmak
 
 Bu gereksinimler, sosyoloji alanında çalışan profesyonellerin SPSS v30'u etkili 
 bir şekilde kullanabilmeleri için gerekli temel becerileri ve donanımı özetlemektedir.
