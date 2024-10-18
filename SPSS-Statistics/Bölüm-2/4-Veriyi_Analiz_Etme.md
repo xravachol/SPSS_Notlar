@@ -21,7 +21,7 @@ Resim :
 
 5. "Ok" düğmesine tıklayın.
 
-![Resim]("https://i.ibb.co/tJ7kdgK/Frequencies-Analyze-Output.png")
+![Resim](https://i.ibb.co/tJ7kdgK/Frequencies-Analyze-Output.png)
 
 Bu adımlar, seçtiğiniz değişken için frekans tablosunu (değerlerin sayımını gösteren bir tablo) oluşturacaktır. 
 Bu tablo, her bir değerin ne sıklıkla görüldüğünü gösterir.
