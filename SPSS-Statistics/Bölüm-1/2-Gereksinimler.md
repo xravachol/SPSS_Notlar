@@ -14,10 +14,6 @@ bu açıklamalar okuyucunun hafızasını tazelemek için tasarlanmıştır, yen
 Yeni başlayanların her bölümdeki adımları takip ederek SPSS'in sayfalar dolusu çıktı üretmesini sağlaması mümkün olsa da, 
 hangi prosedürlerin kullanılacağını ve tüm çıktının ne anlama geldiğini anlamak için istatistikte temel bir altyapı önemlidir.
 
-Ayrıca, ilk 17 bölüm sınırlı istatistik altyapısı olan kişiler tarafından anlaşılabilir olsa da, 
-son 13 bölüm çok daha karmaşık ve kapsamlı analiz türleriyle ilgilenmektedir. 
-Bu bölümler, ilgili istatistiksel tekniklerde önemli bir altyapı gerektirir.
-
 ### BİLGİSAYAR GEREKSİNİMLERİ
 
 Aşağıdakilere sahip olmanız gerekmektedir:
@@ -28,5 +24,5 @@ Aşağıdakilere sahip olmanız gerekmektedir:
 - Bilgisayarı nasıl açacağınızı bilmek
 - Klavyedeki tuşlar ve farenin nasıl kullanılacağı hakkında çalışma bilgisine sahip olmak
 
-Bu gereksinimler, sosyoloji alanında çalışan profesyonellerin SPSS v30'u etkili 
+Bu gereksinimler, İK alanında çalışan profesyonellerin SPSS v30'u etkili 
 bir şekilde kullanabilmeleri için gerekli temel becerileri ve donanımı özetlemektedir.
