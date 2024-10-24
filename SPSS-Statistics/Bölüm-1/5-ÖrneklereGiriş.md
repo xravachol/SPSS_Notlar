@@ -1,51 +1,53 @@
-# Örnek Veri Setine Giriş
+# Örnek Veri Setine Giriş: İnsan Kaynakları Uzmanları için
 
-Daha karmaşık işlemler için, sunulan belirli prosedürleri yansıtmak amacıyla farklı veri dosyalarının seçilmesi gerekmiştir.
-Örnek veri dosyaları, SPSS belgelerinde karmaşık görünen bazı şeylerin, nasıl yapıldığını gördüğünüzde daha net hale gelmesi açısından faydalıdır. 
-Burada yalnızca en sık kullanılan örnek veri dosyası tanımlanmakta olup, notlarım boyunca sunulan prosedürleri göstermek için 
-toplamda 12 veri seti kullanılmaktadır; ayrıca alıştırmalarda da farklı veri setleri bulunmaktadır. 
+İnsan kaynakları alanında veri analizi, çalışanların performansını, memnuniyetini ve organizasyonel verimliliği anlamak için kritik öneme sahiptir. Bu bağlamda, belirli prosedürlerin uygulanabilirliğini göstermek amacıyla farklı veri dosyalarının seçilmesi gerekmiştir. Aşağıda, insan kaynakları uzmanları için tasarlanmış örnek veri setine dair bilgiler yer almaktadır.
 
-Örnek veri dosyası, yaklaşık 35 öğrenciden oluşan üç bölümden oluşan bir sınıfı öğreten bir öğretmen tarafından kullanılmak üzere tasarlanmıştır. 
+## Örnek Veri Seti Tanımı
 
-Her öğrenci için aşağıdaki bilgiler kaydedilmiştir:
+Örnek veri seti, bir şirketin çalışanlarına dair bilgiler içermektedir. Bu veri seti, insan kaynakları uzmanlarının analiz yaparken kullanabilecekleri çeşitli değişkenleri içermektedir. 
 
-• Kimlik numarası
+## Veri Setinde Bulunan Bilgiler
 
-• İsim
+Her çalışan için aşağıdaki bilgiler kaydedilmiştir:
 
-• Cinsiyet
+• Kimlik Numarası: Çalışanın benzersiz tanımlayıcısı.
 
-• Etnik köken
+• İsim: Çalışanın adı.
 
-• Okul yılı
+• Cinsiyet: Çalışanın cinsiyeti.
 
-• Üst veya alt düzey sınıf durumu
+• Etnik Köken: Çalışanın etnik kökeni.
 
-• Önceki not ortalaması (GPA)
+• Okul Yılı: Çalışanın mezun olduğu yıl.
 
-• Bölüm
+• Pozisyon Düzeyi: Çalışanın üst veya alt düzey pozisyonda olup olmadığı.
 
-• Ekstra kredi veya tekrar derslerine katılıp katılmadığı
+• Önceki Performans Değerlendirmesi: Çalışanın geçmiş performans notları.
 
-• Beş adet 10 puanlık quiz ve bir 75 puanlık final sınavı puanları
+• Departman: Çalışanın görev yaptığı departman.
 
-4. Bölümde dört yeni değişkenin nasıl oluşturulacağı açıklanacaktır.
-Takip eden tüm sunumlarda bu dört değişken de bulunmaktadır:
+• Eğitim Programlarına Katılım: Çalışanın aldığı eğitim veya gelişim programları.
 
-• Toplam kazanılan puan sayısı
+• Çeşitli Performans Göstergeleri: Çalışanın beş adet performans değerlendirme puanı ve bir yıllık toplam performans puanı.
 
-• Final yüzdesi
+## Yeni Değişkenlerin Oluşturulması
 
-• Alınan final notu
+Veri setinde dört yeni değişkenin nasıl oluşturulacağı açıklanacaktır. Bu değişkenler, insan kaynakları analizi için önemli bilgiler sunar:
 
-• Öğrencinin dersi geçip geçmediği
+• Toplam Kazanılan Puan Sayısı: Çalışanın tüm performans değerlendirmelerinden elde ettiği toplam puan.
 
-Örnek veri dosyası (tüm veri seti 3. Bölümün sonunda gösterilmektedir), aynı zamanda tanıtıcı bölümlerde (2. ile 5. Bölümler) örnek olarak kullanılacaktır. 
-Eğer verileri kendiniz girerseniz ve bu bölümlerde açıklanan prosedürleri takip ederseniz, notların ilk yarısında kullanılan veri dosyasına sahip olacaksınız. 
-Evet, indirilebilir veri dosyalarında aynı bilgiler yer almakta; ancak bu veri seti ile veri girişi, 
-biçimlendirme ve belirli veri manipülasyonları üzerinde pratik yapmanız faydalı olabilir. 
-Eğer kendi çalıştığınız bir veri setiniz varsa, bu da harika bir fırsattır.
+• Yıllık Performans Yüzdesi: Çalışanın yıllık performansının yüzdesel olarak gösterimi.
 
-Son olarak belirtmek gerekir ki, notlar dosyasındaki tüm veriler tamamen kurgusaldır; 
-dolayısıyla elde edilen bulgular yalnızca bu dosyayı oluşturduğumuzda ortaya çıkmıştır. 
-Bu bağlamda, sosyoloji alanında yapılan araştırmalar ve analizler için bu tür örnek veri setlerinin kullanımı oldukça değerlidir.
+• Alınan Son Performans Notu: Çalışanın en son performans değerlendirmesinden aldığı not.
+
+• Çalışanın Başarı Durumu: Çalışanın belirlenen başarı kriterlerini karşılayıp karşılamadığı.
+
+## Uygulama ve Pratik
+
+Bu veri seti, insan kaynakları uzmanlarının veri girişi, biçimlendirme ve belirli veri manipülasyonları üzerinde pratik yapmalarına olanak tanır. Eğer kendi çalıştığınız bir veri setiniz varsa, bu da harika bir fırsattır. 
+
+
+## Notlar
+
+Tüm veriler tamamen kurgusaldır; dolayısıyla elde edilen bulgular yalnızca bu dosya oluşturulduğunda ortaya çıkmıştır. Bu tür örnek veri setlerinin kullanımı, insan kaynakları alanındaki araştırmalar ve analizler için oldukça değerlidir. 
+
