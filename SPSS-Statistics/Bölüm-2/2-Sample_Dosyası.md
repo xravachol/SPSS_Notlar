@@ -1,4 +1,4 @@
-# IBM SPSS ile Sosyoloji Veri Analizi: Örnek Dosyalar
+# IBM SPSS ile Veri Analizi: Örnek Dosyalar
 
 Bu kılavuzda sunulan örneklerin çoğu, demo.sav veri dosyasını kullanmaktadır. 
 Bu veri dosyası, birkaç bin kişiyi kapsayan kurgusal bir anketi temsil eder ve temel demografik ile tüketici bilgilerini içerir. 
@@ -12,8 +12,7 @@ Samples alt dizininde aşağıdaki diller için ayrı bir klasör bulunmaktadır
 Tüm örnek dosyaları her dilde mevcut değildir. 
 Eğer bir örnek dosyası belirli bir dilde bulunmuyorsa, o dil klasöründe İngilizce versiyonu yer almaktadır.
 
-Bu örnek dosyaları kullanarak IBM SPSS'in sunduğu güçlü analiz araçlarını keşfedebilir ve 
-sosyolojik verilerinizi etkili bir şekilde analiz edebilirsiniz. 
+Bu örnek dosyaları kullanarak IBM SPSS'in sunduğu güçlü analiz araçlarını keşfedebilir ve verilerinizi etkili bir şekilde analiz edebilirsiniz. 
 
 Samples Resim :
 
